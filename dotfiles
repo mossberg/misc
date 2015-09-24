@@ -1,0 +1,14 @@
+## ubuntu
+
+wget https://raw.githubusercontent.com/mossberg/dotfiles/ubuntu/bash/aliases.symlink -O ~/.aliases
+wget https://raw.githubusercontent.com/mossberg/dotfiles/ubuntu/bash/bash_profile.symlink -O ~/.bash_profile
+wget https://raw.githubusercontent.com/mossberg/dotfiles/ubuntu/bash/bashrc.symlink -O ~/.bashrc
+wget https://raw.githubusercontent.com/mossberg/dotfiles/ubuntu/bash/inputrc.symlink -O ~/.inputrc
+
+wget https://raw.githubusercontent.com/mossberg/dotfiles/ubuntu/gdb/gdbinit.symlink -O ~/.gdbinit
+
+wget https://raw.githubusercontent.com/mossberg/dotfiles/ubuntu/tmux/tmux.conf.symlink -O ~/.tmux.conf
+
+wget https://raw.githubusercontent.com/mossberg/dotfiles/ubuntu/vim/vimrc.symlink -O ~/.vimrc
+wget https://raw.githubusercontent.com/mossberg/dotfiles/ubuntu/vim/install.sh
+

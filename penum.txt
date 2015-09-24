@@ -1,0 +1,1 @@
+for path in `echo $PATH | sed "s/:/ /g"`; do printf "\n$path\n-----\n\n" ; ls $path | grep hex; done

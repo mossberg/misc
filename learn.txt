@@ -1,0 +1,14 @@
+to learn/implement
+
+- memory allocator
+- thread scheduler
+- virtual memory
+- event driven server
+- threaded server
+- OS level emulator
+- a debugger
+- jit compiler
+- hobby os kernel exploit
+- brainfuck interpreter
+- functional programming
+- binary analysis/symbolic execution
