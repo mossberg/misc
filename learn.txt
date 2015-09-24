@@ -9,6 +9,7 @@ to learn/implement
 - a debugger
 - jit compiler
 - hobby os kernel exploit
+- heap expl (use after/double free)
 - brainfuck interpreter
 - functional programming
 - binary analysis/symbolic execution
