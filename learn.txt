@@ -13,3 +13,4 @@ to learn/implement
 - brainfuck interpreter
 - functional programming
 - binary analysis/symbolic execution
+- lexer/parser for spym
